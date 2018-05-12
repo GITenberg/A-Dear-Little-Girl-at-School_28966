@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28966#A-Dear-Little-Girl-at-School
 gutenberg_issued: '2009-05-25'
 gutenberg_type: Text
 identifiers:
